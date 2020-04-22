@@ -10,6 +10,8 @@
 
 una vez terminada la instalacion tenemos que verificar si esta bien instalado apache tenemos que entrar a nuestro navegador como google o firefox el de nuestro gusto y entrar a localhost y nos aparecera una pantalla como la siguiente
 
+![verificarApache](https://user-images.githubusercontent.com/35048921/79946007-b8b11400-8434-11ea-98d9-1d2a9164405e.png)
+
 #
 #
 #
