@@ -5,7 +5,8 @@
 		PHP, Dependencias de PHP
 #
 # Proceso de instalacion
-#Instalar Apache2
+# 
+# Instalar Apache2
 #
 sudo apt install apache2
 
