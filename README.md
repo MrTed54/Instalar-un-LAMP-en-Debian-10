@@ -6,7 +6,8 @@
 #
 # Proceso de instalacion
 	sudo apt install apache2
-	sudo apt install mysql
+	![instalarapache](https://user-images.githubusercontent.com/35048921/79944166-75ed3d00-8430-11ea-9127-37d470ba13fb.png)
+
 #
 #
 #
