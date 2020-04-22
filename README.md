@@ -16,10 +16,15 @@ una vez terminada la instalacion tenemos que verificar si esta bien instalado ap
 
 ![verificarApache](https://user-images.githubusercontent.com/35048921/79946007-b8b11400-8434-11ea-98d9-1d2a9164405e.png)
 #
-Instalar PHP7
+# Instalar PHP7
+
 sudo apt-get install python-software-properties
+
 sudo add-apt-repository ppa:ondrej/php
+
 sudo apt-get update
+
 sudo apt-get install php7.0
+
 php -v
 #
