@@ -3,4 +3,10 @@
 #		Apache2
 #		Mysql o MariaDB
 #		PHP, Dependencias de PHP
-
+#
+# Proceso de instalacion
+#	sudo apt install apache2
+#	sudo apt install mysql
+#
+#
+#
